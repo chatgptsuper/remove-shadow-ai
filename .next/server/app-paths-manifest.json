@@ -1,0 +1,20 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/webhooks/creem/route": "app/api/webhooks/creem/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/api/webhooks/clerk/route": "app/api/webhooks/clerk/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(auth)/sign-up/[[...sign-up]]/page": "app/(auth)/sign-up/[[...sign-up]]/page.js",
+  "/(root)/transformations/add/[type]/page": "app/(root)/transformations/add/[type]/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/about/page": "app/(root)/about/page.js",
+  "/(root)/privacy/page": "app/(root)/privacy/page.js",
+  "/(root)/cookie/page": "app/(root)/cookie/page.js",
+  "/(root)/profile/page": "app/(root)/profile/page.js",
+  "/(root)/transformations/[id]/update/page": "app/(root)/transformations/[id]/update/page.js",
+  "/(root)/transformations/[id]/page": "app/(root)/transformations/[id]/page.js",
+  "/(root)/terms/page": "app/(root)/terms/page.js",
+  "/(root)/pricing/page": "app/(root)/pricing/page.js",
+  "/(root)/transformations/page": "app/(root)/transformations/page.js"
+}
