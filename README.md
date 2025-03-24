@@ -85,6 +85,7 @@ NEXT_PUBLIC_CREEM_ENTERPRISE_PRODUCT_ID=
 ## 🚀 快速开始
 # 克隆项目并安装依赖:
 git clone https://github.com/chatgptsuper/remove-shadow-ai.git
+
 npm install
 
 # 改为你自己的域名
