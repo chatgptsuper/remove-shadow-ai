@@ -82,14 +82,14 @@ NEXT_PUBLIC_CREEM_PRO_PRODUCT_ID=
 NEXT_PUBLIC_CREEM_BUSINESS_PRODUCT_ID=
 NEXT_PUBLIC_CREEM_ENTERPRISE_PRODUCT_ID=
 
+# 改为你自己的域名
+NEXT_PUBLIC_SERVER_URL=https://removeshadow.com
+
 ## 🚀 快速开始
 # 克隆项目并安装依赖:
 git clone https://github.com/chatgptsuper/remove-shadow-ai.git
 
 npm install
-
-# 改为你自己的域名
-NEXT_PUBLIC_SERVER_URL=https://removeshadow.com
 
 # 启动开发服务器:
 npm run dev
